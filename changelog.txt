@@ -1,0 +1,104 @@
+[B]Releasenotes V6.8.4 (9 juni 2016)[/B]
+Toegevoegd: --Webcams--
+Toegevoegd onder --Webcams--:
+Radio 1
+Radio 2
+3FM
+Radio 4
+Qmusic
+Radio Funx
+Radio NL
+Radio Veronica
+Radio538 TV
+Radio538
+Slam Studio
+Slam TV
+
+
+[B]Releasenotes V6.8.3 (6 juni 2016)[/B]
+Toegevoegd onder webradio: Verschillende streams Radio 10
+Toegevoegd onder webradio: Verschillende streams Radio 538
+Toegevoegd onder webradio: Verschillende streams Sky Radio
+
+[B]Releasenotes V6.8.2 (6 januari 2016)[/B]
+Kerst radiostations verplaatst naar Seizoenen > Kerst
+Toegevoegd onder Seizoenen: Carnaval
+Toegevoegd onder Seizoenen > Carnaval: Carnaval Radio
+Toegevoegd onder Seizoenen > Carnaval: Radio Caramba
+
+[B]Releasenotes V6.8.1 (12-12-2015)[/B]
+Toegevoegd: Seizoenen
+Toegevoegd onder Seizoenen: Kerst Radio
+Toegevoegd onder Seizoenen: Kerst Hits
+
+[B]Releasenotes V6.8 (16 augustus 2015)[/B]
+Toegevoegd onder webradio: Radio 251 (verzoek Joop)
+Toegevoegd onder webradio: Freez FM (verzoek Joost)
+Gerepareerd onder webradio: Q-Music – Foute uur non-stop (Met dank aan Danny)
+Gerepareerd onder webradio: Bright FM Kids
+Gerepareerd onder nationaal: Juize FM
+Gerepareerd onder nationaal: Arrow Caz
+
+[B]Releasenotes V6.7[/B] [I](5 mei 2015)[/I]
+Toegevoegd onder webradio: Lancia en Stuntvogel (verzoek Danny M.)
+Toegevoegd onder webradio: Q-music – Foute uur non-stop (verzoek Danny vd A.)
+Toegevoegd onder regionaal: Glow FM (verzoek Henk)
+Toegevoegd onder regionaal: Studio040 (verzoek Henk)
+Gerepareerd onder nationaal: Radio 538 (verzoek nitehawk)
+
+[B]Releasenotes V6.6[/B] [I](3 april 2015)[/I]
+Gerepareerd onder nationaal: Slam!FM
+Gerepareerd onder nationaal: Radio Veronica
+Gerepareerd onder regionaal Radio Gelderland (verzoek Anoniem)
+[I]Start van Kodi Addon[/I]
+
+[B]Releasenotes V6.5[/B] [I](5 januari 2015)[/I]
+Gerepareerd onder nationaal: Slam!FM (verzoek Bernard)
+Gerepareerd onder nationaal: Q-music (verzoek Ferry)
+
+[B]Releasenotes V6.4[/B] [I](30 oktober 2014)[/I]
+Toegevoegd onder regionaal (ZH): Radio West (verzoek Roy)
+
+[B]Releasenotes V6.3[/B] [I](1 september 2014)[/I]
+Toegevoegd onder regionaal (NH): Wild FM (verzoek Thomas)
+Toegevoegd onder webradio: 3FM On Stage (verzoek Peter)
+Toegevoegd onder webradio: 3FM Alternative (verzoek Peter)
+
+[B]Releasenotes V6.2[/B] [I](5 juni 2014)[/I]
+Toegevoegd onder webradio: Reformatorische Omroep (verzoek Registrant)
+Aanpassing stream-URL Pinguin Radio (n.a.v. tip Niels)
+
+[B]Releasenotes V6.1[/B] [I](25 januari 2014)[/I]
+Verwijderd onder nationaal: Radio 10 Gold
+Toegevoegd onder nationaal: Radio 10
+Toegevoegd onder webradio: Bright FM Kids (verzoek Martijn)
+Toegevoegd onder webradio: RAM FM (verzoek Rob)
+
+[B]Releasenotes V6.0[/B] [I](27 december 2013)[/I]
+Alle streams zijn gecontroleerd en waar nodig gerepareerd of verbetert. Daarnaast zijn de volgende wijzigingen doorgevoerd.
+Toegevoegd onder nationaal: Sublime FM
+Toegevoegd onder regionaal: Almere FM
+Toegevoegd onder regionaal: Vallei Radio
+Toegevoegd onder regionaal: Midland FM
+Toegevoegd onder regionaal: Jouw FM
+Toegevoegd onder regionaal: Team FM
+Toegevoegd onder regionaal: Radio M Utrecht
+Toegevoegd onder regionaal: Omroep Zuidplas
+Toegevoegd onder regionaal: RTV Dordrecht
+Toegevoegd onder Webradio: Groot Nieuws Radio (verzoek Jacob)
+Toegevoegd onder Webradio: Seven FM
+Toegevoegd onder Webradio: Bright FM
+Toegevoegd onder Webradio: Radio Holland Online (verzoek Radio Holland Online)
+Verwijderd onder nationaal: Arrow Jazz FM
+Verwijderd onder regionaal: Airpeace FM
+Verwijderd onder regionaal: Stadsradio Almere
+Verwijderd onder regionaal: Radio West Friesland
+Verwijderd onder regionaal: Het Gelders geluid
+Verwijderd onder regionaal: E-FM
+Verwijderd onder regionaal: Fantasy Classic Gold
+Verwijderd onder regionaal: Radio Stad FM
+Verwijderd onder regionaal: Midpoint FM
+Verwijderd onder regionaal: Power Dance Radio
+Verwijderd onder regionaal: Lonradio
+Verwijderd onder regionaal: Dordrecht Stad Radio
+Verwijderd onder regionaal: Radio 3B Lokaal

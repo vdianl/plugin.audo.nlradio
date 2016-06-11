@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.nlradio" name="NL Radio" version="6.8.4" provider-name="vDia Internet Applications">
+	<extension point="xbmc.python.pluginsource" library="start.py">
+		<provides>audio</provides>
+	</extension>
+	<extension  point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="nl">Nederlandse radiostreams in een plugin verwerkt</summary>
+		<description lang="nl">Luister eenvoudig naar Nederlandse radiostreams.</description>
+		<disclaimer>De radiostreams worden sinds 2005 zorgvuldig verzameld en ingedeeld door bigfoot87.com</disclaimer>
+		<language>nl</language>
+		<platform>all</platform>
+	</extension>
+</addon>
