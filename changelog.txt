@@ -1,3 +1,19 @@
+[B]Releasenotes V6.8.5 (16 juni 2016)[/B]
+[I]Credits to PVDL[/I]
+Update Radio Middelse
+Joy Radio Groningen
+Joy Radio Friesland
+Radio Centraal
+Added Radio Spannenburg
+Changed stream Radio Eenhoorn
+Added RTV Kanaal 30
+Changed stream Weert FM
+Changed stream Omroep Venray
+Added Radio Weesp
+Added Deventer Radio
+Added Radio Apeldoorn
+Added LEO FM
+
 [B]Releasenotes V6.8.4 (9 juni 2016)[/B]
 Toegevoegd: --Webcams--
 Toegevoegd onder --Webcams--:
