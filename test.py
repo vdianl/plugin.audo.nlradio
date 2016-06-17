@@ -1,5 +1,7 @@
 import urllib2, os, sys
 
+LOCAL_DIR = os.path.dirname(os.path.abspath(__file__))
+
 def checkLink(page, filepath):
     url = page                                                           
     try:                                                                 
@@ -10,9 +12,9 @@ def checkLink(page, filepath):
         req.add_header('Connection', 'keep-alive')                                                                
         response = urllib2.urlopen(req, timeout=5)                                            
         if response.code != 200 :
-            print("Stream in " + filepath + " seems incorrect")        
+            print("Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect (Response code: "+response.code+")")        
     except :                                                                                       
-        print("Stream in " + filepath + " seems incorrect")
+        print("Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect")
         
 def browse(strDir):
     for directory in getDirs(strDir) :
@@ -43,7 +45,10 @@ def fread(filename):
     with open(filename) as f:
         return f.read()
 
-if len(sys.argv) == 2 :
-    browse(sys.argv[1])
+if len(sys.argv) == 1:
+    browse(os.path.join(LOCAL_DIR, 'streams'))
 else :
-    print "usage "+sys.argv[0]+" /path/to/streams"
+    if len(sys.argv) == 2 :
+        browse(sys.argv[1])
+    else :
+        print "usage "+sys.argv[0]+" [/path/to/streams]"
