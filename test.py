@@ -5,16 +5,21 @@ LOCAL_DIR = os.path.dirname(os.path.abspath(__file__))
 def checkLink(page, filepath):
     url = page                                                           
     try:                                                                 
-        req = urllib2.Request(url ,None)                                                                          
-        req.add_header('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8')               
-        req.add_header('Accept-Language', 'nl,en-US;q=0.7,en;q=0.3')                                              
-        req.add_header('Accept-Encoding', 'deflate')                                                        
-        req.add_header('Connection', 'keep-alive')                                                                
+        req = urllib2.Request(url ,None) 
+        req.add_header('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8')
+        req.add_header('Accept-Language', 'nl,en-US;q=0.7,en;q=0.3')
+        req.add_header('Accept-Encoding', 'deflate')
+        #req.add_header('Connection', 'keep-alive')
         response = urllib2.urlopen(req, timeout=5)                                            
         if response.code != 200 :
-            print("Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect (Response code: "+response.code+")")        
+            print("- [ ] Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect (Response code: "+str(response.code)+")")       
+    except urllib2.HTTPError as http_error :
+        print("- [ ] Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect (http code: "+str(http_error.code)+")")
+    except urllib2.URLError as url_error :
+        print("- [ ] Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect (reason: "+ str(url_error.reason) +")")
     except :                                                                                       
-        print("Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect")
+        print("- [ ] Stream in " + filepath.replace(LOCAL_DIR,"") + " seems incorrect ("+page+")")
+        print(sys.exc_info()[0])
         
 def browse(strDir):
     for directory in getDirs(strDir) :
