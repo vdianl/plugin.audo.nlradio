@@ -1,3 +1,83 @@
+[B]Releasenotes V6.8.6 (25 juni 2016)[/B]
+[COLOR green]Toegevoegd:  SRC FM
+Toegevoegd:  RTV Ronde Venen
+Toegevoegd:  BaarnFM
+Toegevoegd: Radio Texel
+Toegevoegd:  RTV Amstelveen
+Toegevoegd:  Alkmaar Centraal
+Toegevoegd:  Radio Aalsmeer
+Toegevoegd:  Rick FM
+Toegevoegd: Omroep Menterwolde
+Toegevoegd:  RTV Parkstad
+Toegevoegd:  RTV Stadskanaal
+Toegevoegd:  Radio Westerkwartier
+Toegevoegd:  LOZ
+Toegevoegd:  527
+Toegevoegd:  missing logos Radio10
+Toegevoegd:  Radio10 Rock
+Toegevoegd:  Radio10 Love songs
+Toegevoegd:  Radio10 #1 hits
+Toegevoegd:  missing logo Dordrechtstad FM
+Toegevoegd:  Friesland > Radio Centraal logo
+Toegevoegd:  Friesland > RTV Kanaal 30 logo
+Toegevoegd:  RadioNL logo
+Toegevoegd:  Radio Funx logo
+Toegevoegd:  Radio Markant
+Toegevoegd:  Omroep Odrie
+Toegevoegd:  Radio Stad Harlingen
+Toegevoegd:  BNR Nieuwsradio
+Toegevoegd:  KickRadio
+Toegevoegd:  gl8
+Toegevoegd:  WOFM[/COLOR]
+[COLOR orange]Aangepast:  Sublime FM.strm
+Aangepast:  Juize FM.strm
+Aangepast:  Seven FM.strm
+Aangepast:  Radio 251.strm
+Aangepast:  RTV Stadskanaal.strm
+Aangepast:  Radio Hoeksche Waard.strm
+Aangepast:  Dordrechtstad FM.strm
+Aangepast:  Omroep Zeeland.strm
+Aangepast:  Radio M Utrecht.strm
+Aangepast: Bright FM Kids
+Aangepast:  Radio Rosita.strm
+Aangepast: Bright FM
+Aangepast:  Radio Almelo.strm
+Aangepast:  Wild FM.strm
+Aangepast:  Accent FM.strm
+Aangepast:  Wild FM.strm
+Aangepast:  Wild FM.strm
+Aangepast:  Radio Hoorn.strm
+Aangepast:  Radio 80.strm
+Aangepast:  Radio Veldhoven.strm
+Aangepast:  Smelne.strm
+Aangepast:  Urk FM.strm
+Aangepast:  Beyond The Beat Generation.strm
+Aangepast:  Almere FM.strm
+Aangepast:  Radio Ideaal.strm
+Aangepast:  Assen FM.strm
+Aangepast: Skyline FM[/COLOR]
+[COLOR red]Verwijderd:  3FM on Stage
+Verwijderd: Carnaval Radio
+Verwijderd: Studio West Ysselmonde
+Verwijderd: Radio Maico
+Verwijderd: Jouw FM[/COLOR]
+
+[B]Releasenotes V6.8.5 (16 juni 2016)[/B]
+[I]Credits to PVDL[/I]
+Update Radio Middelse
+Joy Radio Groningen
+Joy Radio Friesland
+Radio Centraal
+Added Radio Spannenburg
+Changed stream Radio Eenhoorn
+Added RTV Kanaal 30
+Changed stream Weert FM
+Changed stream Omroep Venray
+Added Radio Weesp
+Added Deventer Radio
+Added Radio Apeldoorn
+Added LEO FM
+
 [B]Releasenotes V6.8.4 (9 juni 2016)[/B]
 Toegevoegd: --Webcams--
 Toegevoegd onder --Webcams--:
