@@ -17,11 +17,12 @@ def browse(strDir):
         xbmcutil.addMenuItem('[COLOR orange]'+directory+'[/COLOR]', os.path.join(strDir, directory), 'false')
     for file in getFiles(strDir) :
         if(file[-5:] == '.strm') :
+            background = os.path.join(rootDir, 'fanart.jpg')
             if(os.path.isfile(os.path.join(strDir, file[:-5]+'.tbn'))) :
                 iconFile = os.path.join(strDir, file[:-5]+'.tbn')
             else :
                 iconFile = os.path.join(rootDir, 'icon.png')
-            xbmcutil.addMenuItem(file[:-5], os.path.join(strDir, file), 'true', icon=iconFile)
+            xbmcutil.addMenuItem(file[:-5], os.path.join(strDir, file), 'true', icon=iconFile, fanart=background)
     xbmcutil.endOfList()
 
 def getDirs(strRoot) :
