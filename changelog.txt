@@ -1,3 +1,13 @@
+[B]Releasenotes V6.8.8 (3 augustus 2016)[/B]
+[COLOR green]Toegevoegd: Regionale zender: Omrop Fryslan, L1 Plat, RTV Oost Plat
+Toegevoegd: Radio 8FM Regionaal
+Toegevoegd: RTV LOGO
+Toegevoegd: Radio Compagnie
+Toegevoegd: Haren FM
+Toegevoegd: Toegevoegd: Regio FM
+Toegevoegd: Havenstad FM
+Toegevoegd: Oke FM[/COLOR]
+
 [B]Releasenotes V6.8.7 (9 juli 2016)[/B]
 [COLOR green]Toegevoegd: default fanart
 Toegevoegd: 100% NL logo
