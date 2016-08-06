@@ -1,3 +1,94 @@
+[B]Releasenotes V6.8.8 (3 augustus 2016)[/B]
+[COLOR green]Toegevoegd: Regionale zender: Omrop Fryslan, L1 Plat, RTV Oost Plat
+Toegevoegd: Radio 8FM Regionaal
+Toegevoegd: RTV LOGO
+Toegevoegd: Radio Compagnie
+Toegevoegd: Haren FM
+Toegevoegd: Toegevoegd: Regio FM
+Toegevoegd: Havenstad FM
+Toegevoegd: Oke FM[/COLOR]
+
+[B]Releasenotes V6.8.7 (9 juli 2016)[/B]
+[COLOR green]Toegevoegd: default fanart
+Toegevoegd: 100% NL logo
+Toegevoegd: Radio538 Logos
+Toegevoegd: Veronica logos
+Toegevoegd: Radio 10 Film Hits
+Toegevoegd: RTL Lounge
+Toegevoegd: Efteling Kids Radio
+Toegevoegd: Veronica BUMA ROCKS!
+Toegevoegd: SlamFM streams
+Toegevoegd: Q-Music streams
+Toegevoegd: 100% NL streams
+Toegevoegd: Radio 538 streams
+Toegevoegd: Sky Radio streams
+Toegevoegd: Favoriet FM
+Toegevoegd: RTV Betuwe
+Toegevoegd: Veluwezoom FM
+Toegevoegd: Lokale Omroep Ameland
+Toegevoegd: Radio Ideaal
+Toegevoegd: RTV Totaal
+Toegevoegd: Omroep Berg en Dal
+Toegevoegd: Radio Barneveld
+Toegevoegd: Radio Arnhem
+Toegevoegd: Gelre FM
+Toegevoegd: Ede FM
+Toegevoegd: Dinxper FM
+Toegevoegd: B-FM
+Toegevoegd: Aladna FM
+Toegevoegd: Achterhoek FM
+Toegevoegd: Streekradio
+Toegevoegd: RTV Meppel
+Toegevoegd: Radio Hoogeveen
+Toegevoegd: RTV Emmen
+Toegevoegd: Omroep Assen
+Toegevoegd: Zwartewater FM
+Toegevoegd: Vechtdal FM
+Toegevoegd: RTV Zoo
+Toegevoegd: RTV Borne
+Toegevoegd: RegioFM Wierden
+Toegevoegd: RTV Raalte
+Toegevoegd: Radio 350
+Toegevoegd: AAFM
+Toegevoegd: RTV SLOS
+Toegevoegd: HOi FM
+Toegevoegd: Hofstreek FM
+Toegevoegd: Enschede FM
+Toegevoegd: Delta Piraat
+Toegevoegd: Airplay Radio
+Toegevoegd: Radio JND
+Toegevoegd: Radio Brasa
+Toegevoegd: Glofbreker Radio
+Toegevoegd: NOOS FM
+Toegevoegd: RTV9
+Toegevoegd: EVA
+Toegevoegd: Roulette FM
+Toegevoegd: Leuk FM
+Toegevoegd: Omroep Nijkerk
+Toegevoegd: MexicoFM
+Toegevoegd: LOS Den Helder
+Toegevoegd: WILDFM Hitradio
+Toegevoegd: Radio Ridderkerk
+Toegevoegd: Radio Veronica Streams
+Toegevoegd: Dutch Radio
+Toegevoegd: Traffic Radio
+Toegevoegd: Groot Nieuws Radio
+Toegevoegd: Radio Decibel
+Toegevoegd: Webcam Radio Continu
+Toegevoegd: Radio Continu
+Toegevoegd: Omroep Tholen
+Toegevoegd: Grandprix Radio
+Toegevoegd: Terneuzen FM
+Toegevoegd: Scheldemond FM
+Toegevoegd: Radio Reimerswaal
+Toegevoegd: WFM96
+Toegevoegd: Radio Tijdloos[/COLOR]
+[COLOR orange]Aangepast: SRC FM
+Aangepast: logo Optimaal FM
+Aangepast: Webradio/3FM into webradio/NPO
+Aangepast: Logo - Delta FM[/COLOR]
+
+
 [B]Releasenotes V6.8.6 (25 juni 2016)[/B]
 [COLOR green]Toegevoegd:  SRC FM
 Toegevoegd:  RTV Ronde Venen
@@ -68,15 +159,15 @@ Update Radio Middelse
 Joy Radio Groningen
 Joy Radio Friesland
 Radio Centraal
-Added Radio Spannenburg
+Toegevoegd: Radio Spannenburg
 Changed stream Radio Eenhoorn
-Added RTV Kanaal 30
+Toegevoegd: RTV Kanaal 30
 Changed stream Weert FM
 Changed stream Omroep Venray
-Added Radio Weesp
-Added Deventer Radio
-Added Radio Apeldoorn
-Added LEO FM
+Toegevoegd: Radio Weesp
+Toegevoegd: Deventer Radio
+Toegevoegd: Radio Apeldoorn
+Toegevoegd: LEO FM
 
 [B]Releasenotes V6.8.4 (9 juni 2016)[/B]
 Toegevoegd: --Webcams--
