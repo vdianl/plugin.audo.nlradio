@@ -1,0 +1,13 @@
+{
+    "ignore": 
+    [
+        "/streams/--Webcams--/1. Radio 1.strm",
+        "/streams/--Webcams--/2. Radio 2.strm",
+        "/streams/--Webcams--/3. 3FM.strm",
+        "/streams/--Webcams--/4. Radio 4.strm",
+        "/streams/--Webcams--/Qmusic.strm",
+        "/streams/--Webcams--/Radio Funx.strm",
+	"/streams/Regionale Omroepen/Limburg/Omroep Venlo.strm",
+	"/streams/Regionale Omroepen/Noord Brabant/Lokaal 7.strm"
+    ]
+}
