@@ -1,3 +1,38 @@
+[B]Releasenotes V6.8.9 (6 maart 2017)[/B]
+[COLOR green]Toegevoegd: ZO!34[/COLOR]
+[COLOR orange]Gewijzigd: LOZ Stream
+Gewijzigd: Radio Markant
+Gewijzigd: Omroep Nijkerk
+Gewijzigd: Radio Westerkwartier
+Gewijzigd: Omroep Reindonk
+Gewijzigd: Omroep Venlo
+Gewijzigd: Peel & Maas
+Gewijzigd: Breda NU
+Gewijzigd: Lokaal 7
+Gewijzigd: LOZ Stream
+Gewijzigd: Radio Markant
+Gewijzigd: Omroep Nijkerk
+Gewijzigd: Radio Westerkwartier
+Gewijzigd: Omroep Reindonk
+Gewijzigd: Omroep Venlo
+Gewijzigd: Peel & Maas
+Gewijzigd: Breda NU
+Gewijzigd: Lokaal 7
+Gewijzigd: Radio Hoorn
+Gewijzigd: Radio Texel
+Gewijzigd: Accent FM
+Gewijzigd: Deventer Radio
+Gewijzigd: Twente FM
+Gewijzigd: EVA
+Gewijzigd: Golfbreker Radio
+Gewijzigd: RTV9
+Gewijzigd: WFM96
+Gewijzigd: Radio JND
+Gewijzigd: Baars Classic Rock[/COLOR]
+[COLOR red] Verwijderd: RTV Emmen
+Verwijderd Radio Veldhoven -> Omroep Veldhoven [DUBBEL]
+Verwijderd Kick Radio[/COLOR]
+
 [B]Releasenotes V6.8.8 (3 augustus 2016)[/B]
 [COLOR green]Toegevoegd: Regionale zender: Omrop Fryslan, L1 Plat, RTV Oost Plat
 Toegevoegd: Radio 8FM Regionaal
